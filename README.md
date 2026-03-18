@@ -17,8 +17,7 @@ const myTechstack = {
     databases: ["MariaDB", "MySQL", "SQLite"],
     designGraphics: ["Figma", "Blender", "Canva"],
     versionControl: ["Git", "GitHub", "Subversion"],
-    apisTools: ["ThunderClient"],
-    gameEngines: ["Unity"]
+    apisTools: ["ThunderClient"]
 };
 ```
 </span>
