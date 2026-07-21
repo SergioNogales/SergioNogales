@@ -1,6 +1,6 @@
 <div align="center"> 
 <h1>Hi there, I'm Sergio</h1> 
-Computer Engineering student at Universidad Europea Miguel de Cervantes
+Computer Engineering graduate at Universidad Europea Miguel de Cervantes
 
 -------
 
@@ -12,10 +12,10 @@ Computer Engineering student at Universidad Europea Miguel de Cervantes
 
 ```javascript
 const myTechstack = {
-    languages: ["C", "C#", "CSS3", "HTML5", "JavaScript", "Java"],
-    frameworksLibraries: [".NET", "jQuery", "Next.js", "React"],
-    databases: ["MariaDB", "MySQL", "SQLite"],
-    designGraphics: ["Figma", "Blender", "Canva"],
+    languages: ["C", "C#", "CSS3", "HTML5", "Java", "JavaScript", "Node.js"],
+    frameworksLibraries: ["jQuery", "Next.js", "Alpine.js"],
+    databases: ["MariaDB", "MySQL", "SQLite", "PostgreSQL"],
+    designGraphics: ["Figma", "Canva"],
     versionControl: ["Git", "GitHub", "Subversion"],
     apisTools: ["ThunderClient"]
 };
