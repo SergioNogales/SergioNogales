@@ -1,6 +1,6 @@
 <div align="center"> 
 <h1>Hi there, I'm Sergio</h1> 
-Computer Engineering graduate at Universidad Europea Miguel de Cervantes
+Graduate in Computer Engineering at Universidad Europea Miguel de Cervantes
 
 -------
 
